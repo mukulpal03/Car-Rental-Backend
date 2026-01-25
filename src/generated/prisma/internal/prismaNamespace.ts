@@ -605,7 +605,7 @@ export type UserScalarFieldEnum = (typeof UserScalarFieldEnum)[keyof typeof User
 export const BookingScalarFieldEnum = {
   id: 'id',
   user_id: 'user_id',
-  carName: 'carName',
+  car_name: 'car_name',
   days: 'days',
   rent_per_day: 'rent_per_day',
   status: 'status',
